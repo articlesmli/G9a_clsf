@@ -1,2 +1,2 @@
-The code in this repository is related to the article "Using Machine Learning to Predict G9a - Part I"
+The code in is related to the article "Using Machine Learning to Predict G9a - Part I"
 
