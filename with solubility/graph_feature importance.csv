@@ -1,0 +1,37 @@
+﻿Number of the features,Accuracy,Methods
+0,0,Method 1_Feature importance 
+1,0.662,Method 1_Feature importance 
+2,0.741,Method 1_Feature importance 
+3,0.783,Method 1_Feature importance 
+4,0.858,Method 1_Feature importance 
+5,0.909,Method 1_Feature importance 
+6,0.913,Method 1_Feature importance 
+7,0.918,Method 1_Feature importance 
+8,0.916,Method 1_Feature importance 
+9,0.922,Method 1_Feature importance 
+10,0.922,Method 1_Feature importance 
+11,0.931,Method 1_Feature importance 
+0,0,Method 2_Permutation feature importance
+1,0.662,Method 2_Permutation feature importance
+2,0.77,Method 2_Permutation feature importance
+3,0.782,Method 2_Permutation feature importance
+4,0.853,Method 2_Permutation feature importance
+5,0.912,Method 2_Permutation feature importance
+6,0.925,Method 2_Permutation feature importance
+7,0.922,Method 2_Permutation feature importance
+8,0.921,Method 2_Permutation feature importance
+9,0.926,Method 2_Permutation feature importance
+10,0.928,Method 2_Permutation feature importance
+11,0.929,Method 2_Permutation feature importance
+0,0,Method 3_Feature selection with chi2
+1,0.504,Method 3_Feature selection with chi2
+2,0.536,Method 3_Feature selection with chi2
+3,0.595,Method 3_Feature selection with chi2
+4,0.673,Method 3_Feature selection with chi2
+5,0.786,Method 3_Feature selection with chi2
+6,0.818,Method 3_Feature selection with chi2
+7,0.819,Method 3_Feature selection with chi2
+8,0.855,Method 3_Feature selection with chi2
+9,0.86,Method 3_Feature selection with chi2
+10,0.882,Method 3_Feature selection with chi2
+11,0.899,Method 3_Feature selection with chi2
