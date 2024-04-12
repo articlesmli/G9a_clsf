@@ -16,17 +16,17 @@ SID_2D_target_0.json
 
 ../without_Solubility/
 
-CID_3D_target_0
+CID_3D_target_0.json
 
-CID_3D_target_1
+CID_3D_target_1.json
 
 pubchem_G9a.csv
 
-pubChemComputed_target_0
+pubChemComputed_target_0.csv
 
-SID_2D_target_0
+SID_2D_target_0.json
 
-SID_2D_target_1
+SID_2D_target_1.json
 
 
 
